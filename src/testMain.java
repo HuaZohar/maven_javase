@@ -14,4 +14,10 @@ public class testMain {
     }
 
     private String name;
+    public String getName(){
+        return "zzhua";
+    }
+    public void setName(String name){
+        this.name = name; 
+    }
 }
