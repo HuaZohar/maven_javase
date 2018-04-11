@@ -12,4 +12,6 @@ public class testMain {
     public static void test(){
         System.out.println("fasdfasdfads");
     }
+
+    private String name;
 }
