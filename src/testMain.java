@@ -8,4 +8,8 @@ public class testMain {
     public static Integer getAge() {
         return 12;
     }
+
+    public static void test(){
+        System.out.println("fasdfasdfads");
+    }
 }
